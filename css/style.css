@@ -71,11 +71,13 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 	font-family: 'Pacifico', cursive;
 	margin-bottom: 20px;
 	font-weight:normal;
+    padding: 0 10px;
 }
 
 #slogan h2{
 	font-size: 20px;
 	font-weight:normal;
+    padding: 0 10px;
 }
 
 
